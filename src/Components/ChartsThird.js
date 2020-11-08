@@ -21,7 +21,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Line Chart</h4>
+                                <h4 className="card-title">Incidence</h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_line_chart" className="height-500" />
@@ -31,7 +31,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Area Chart</h4>
+                                <h4 className="card-title">Intervention</h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_area_chart" className="height-500" />
@@ -41,7 +41,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Column Charts</h4>
+                                <h4 className="card-title">GBV Responses</h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_column_chart" className="height-500" />
@@ -51,7 +51,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Bar Chart</h4>
+                                <h4 className="card-title">Country Coverage</h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_bar_chart" className="height-500" />
@@ -61,7 +61,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Mixed Chart</h4>
+                                <h4 className="card-title">Sexual Asualt  Referral center</h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_mixed_chart" className="height-500" />
@@ -71,7 +71,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Candlestick Charts</h4>
+                                <h4 className="card-title">No. of Cases Charge to Court</h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_candlestick_chart" className="height-500" />
@@ -81,7 +81,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Pie Charts</h4>
+                                <h4 className="card-title"></h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_pie_chart" className="height-500" />
@@ -91,7 +91,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Donut Charts</h4>
+                                <h4 className="card-title">Voilence Against Person Prohibition </h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_donut_chart" className="height-500" />
@@ -101,7 +101,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Radar Charts</h4>
+                                <h4 className="card-title">Child right law </h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_radar_chart" className="height-500" />
@@ -111,7 +111,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Radial Bar Charts </h4>
+                                <h4 className="card-title">Safe House/Shelters </h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_radial_chart" className="height-500" />
@@ -121,7 +121,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Bubble Charts </h4>
+                                <h4 className="card-title">No of Case Reported </h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_bubble_chart" className="height-500" />
@@ -131,7 +131,7 @@ const ChartsThird = () => {
                     <div className="col-12 col-md-6 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Scatter Charts </h4>
+                                <h4 className="card-title">No of Trails Concluded </h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_scatter_chart" className="height-500" />
@@ -141,7 +141,7 @@ const ChartsThird = () => {
                     <div className="col-12 mt-3">
                         <div className="card">
                             <div className="card-header d-flex justify-content-between align-items-center">
-                                <h4 className="card-title">Heatmap Charts </h4>
+                                <h4 className="card-title">Child Right </h4>
                             </div>
                             <div className="card-body text-center">
                                 <div id="apex_heatmap_chart" className="height-500" />

@@ -26,7 +26,7 @@ const Dashboard = () => {
                                     <div className="card-header d-flex justify-content-between align-items-center">
                                     </div>
                                     <div className="card-body">
-                                        <div id="world-map-gdp" className="w-100 height-350" style={{ height: 500 }} />
+                                    <div id="myMap" className="w-100 height-350" style={{ width:900, height: 800 }} />
                                     </div>
                                 </div>
                             </div>

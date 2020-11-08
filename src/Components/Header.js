@@ -25,11 +25,11 @@ const Charts = () => {
                         </li>
 
                         <li className="dropdown align-self-center mr-1">
-                            <Link to="/charts" className="nav-link px-2" ><i className="icon-drawer h4" />
+                            <a href="#" className="nav-link px-2" ><i className="icon-drawer h4" />
                                 <span className="badge badge-default"> <span className="ring">
                                 </span><span className="ring-point">
                                     </span> </span>
-                            </Link>
+                            </a>
                             <ul className="dropdown-menu dropdown-menu-right border  py-0">
                                 <li>
                                     
@@ -37,11 +37,11 @@ const Charts = () => {
                             </ul>
                         </li>
                         <li className="dropdown align-self-center mr-1">
-                            <Link to="/chartssecond" className="nav-link px-2" ><i className="icon-graph h4" />
+                            <a href="#" className="nav-link px-2" ><i className="icon-graph h4" />
                                 <span className="badge badge-default"> <span className="ring">
                                 </span><span className="ring-point">
                                     </span> </span>
-                            </Link>
+                            </a>
                             <ul className="dropdown-menu dropdown-menu-right border  py-0">
                                 <li>
 
@@ -50,11 +50,11 @@ const Charts = () => {
                         </li>
      
                         <li className="dropdown align-self-center mr-1">
-                            <Link to="/chartslast" className="nav-link px-2" ><i className="icon-pie-chart h4" />
+                            <a href="#" className="nav-link px-2" ><i className="icon-pie-chart h4" />
                                 <span className="badge badge-default"> <span className="ring">
                                 </span><span className="ring-point">
                                     </span> </span>
-                            </Link>
+                            </a>
                             <ul className="dropdown-menu dropdown-menu-right border  py-0">
                                 <li>
 

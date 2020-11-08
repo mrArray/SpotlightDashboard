@@ -402,9 +402,7 @@
      ============================================================= */
 
     var settinghtml = `<div id="settings" class="">
-            <a href="#" id="settingbutton" class="setting"> 
-                <h5 class="mb-0"><i class="icon-settings"></i></h5>
-            </a>
+            
             <div class="sidbarchat p-3">
                 <h5 class="mb-0">TEMPLATE CUSTOMIZER</h5>
                 <p>Customize your template</p>
