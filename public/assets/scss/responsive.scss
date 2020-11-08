@@ -1,0 +1,51 @@
+/* Responsive Css */
+
+@media (max-width: 767px){
+    .card {
+        .card-header{
+            h4
+            {
+                font-size: 1rem;
+                font-weight: bold;
+            }
+        } 
+    }
+    .timeline-point:after, .timeline-point:before, .timeline:after, .timeline:before {
+        display: none; }
+
+    .timeline-app 
+    { 
+        &:before{
+            left: 25px;
+        }
+        .timeline-item
+        {
+
+            width: auto;
+            padding-right: 0px;  
+            padding-left: 50px;
+            margin-bottom: 20px;
+            margin-right: 0px;
+            .time-strip {
+                position: relative;
+                left:0px !important;
+            }
+            .timeline-dot
+            {
+                right: auto;
+                left:5px;
+            }
+            &.reverse
+            {
+                margin-top: 0px;
+                padding-left: 50px;
+                .timeline-dot {
+                    margin-left: 0px;
+                    right: auto;
+                    left: 5px;
+                }
+            }
+        }
+    }
+
+}
